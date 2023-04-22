@@ -7,3 +7,5 @@ Various lists of lego parts
 * `set-*`: part lists for sets I have, from https://rebrickable.com
 
 * `dataset-447`: the 447 parts included in this dataset: https://mostwiedzy.pl/en/open-research-data/lego-bricks-for-training-classification-network,618104539639776-0
+
+* `parts.csv`: mostly used to find names, downloaded from https://rebrickable.com/downloads/
